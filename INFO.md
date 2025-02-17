@@ -1,1 +1,2 @@
-new text
+first line
+second line
